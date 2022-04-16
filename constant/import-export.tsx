@@ -34,8 +34,10 @@ import bolt from '../assets/skills/bolt.png';
 import nb from '../assets/skills/nb.png';
 import skype from '../assets/skills/skype.png';
 import spotify from '../assets/skills/spotify.png';
+import mainImage from '../assets/images/my_image.jpg';
 
 export default {
+  mainImage,
   email,
   mobile,
   api,
